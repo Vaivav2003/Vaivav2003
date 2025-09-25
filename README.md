@@ -11,6 +11,13 @@ Email Me 👉 ✉️ **[vaibhavkumar5908@gmail.com]** for collaborations, projec
 * ⚡ **Fun fact:** I have solved over 400 problems on LeetCode!
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 ## 💻 Tech Stack:
 
