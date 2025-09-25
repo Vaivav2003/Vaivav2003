@@ -18,6 +18,19 @@ Email Me 👉 ✉️ **[vaibhavkumar5908@gmail.com]** for collaborations, projec
 
 ---
 
+## ✨ My Passions  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
+</p>
+
+---
+
+
 ## 🚀 Top Projects
 
 <table>
@@ -45,6 +58,7 @@ Email Me 👉 ✉️ **[vaibhavkumar5908@gmail.com]** for collaborations, projec
 </table>
 
 ---
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vaivav2003&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)
